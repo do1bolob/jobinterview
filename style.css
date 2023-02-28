@@ -1,0 +1,15 @@
+html, body {
+margin: auto;
+padding: 0;
+height: 100%;
+background-image: linear-gradient(gray,white);
+}
+
+body,  h3 {
+    margin: 0;
+    text-align: center;
+    gap:20px;
+    margin: 20px;
+    padding: 20px;
+}
+
